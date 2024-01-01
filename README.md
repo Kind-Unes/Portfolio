@@ -1,7 +1,7 @@
 # My Flutter Portfolio
 
 <p align="center">
-  <img src="https://github.com/Kind-Unes/Portfolio/blob/master/Screenshots/Screenshot%202024-01-01%20185826.png?raw=true" alt="Portfolio Logo" width=""/>
+  <img src="https://github.com/Kind-Unes/Portfolio/blob/master/Screenshots/photo_5807890013466247386_y.jpg?raw=true" alt="Portfolio Logo" width=""/>
 </p>
 
 Welcome to my Flutter portfolio, a showcase of my skills and projects. This portfolio is built using Flutter and GetX for state management.
