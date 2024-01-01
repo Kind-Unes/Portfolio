@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "221753300903",
+    "project_id": "kind-unes",
+    "storage_bucket": "kind-unes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221753300903:android:c8ce69e963c3e2ab0e0882",
+        "android_client_info": {
+          "package_name": "com.example.flutter_portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221753300903-ajvjr2vrmrf1eheflkvdiblgkcao7ji7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABeTfZ7E_TfZTK--Yl6KgZdeKKNnW8k4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221753300903-ajvjr2vrmrf1eheflkvdiblgkcao7ji7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221753300903:android:ef562b03edf116b00e0882",
+        "android_client_info": {
+          "package_name": "com.example.meriam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221753300903-ajvjr2vrmrf1eheflkvdiblgkcao7ji7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABeTfZ7E_TfZTK--Yl6KgZdeKKNnW8k4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221753300903-ajvjr2vrmrf1eheflkvdiblgkcao7ji7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
