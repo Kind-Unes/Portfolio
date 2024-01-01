@@ -1,7 +1,12 @@
 # My Flutter Portfolio
 
+## Getting Started
+
+My Flutter Portfolio is a dynamic showcase of my skills and projects, crafted with Flutter's expressive UI framework. With seamless navigation powered by GetX, it offers a captivating user experience. Explore my work, certifications, and technical expertise in this mobile-friendly portfolio.
+
+
 <p align="center">
-  <img src="https://github.com/Kind-Unes/Portfolio/blob/master/Screenshots/photo_5807890013466247386_y.jpg?raw=true" alt="Portfolio Logo" width=""/>
+  <img src="https://github.com/Kind-Unes/Portfolio/blob/master/Screenshots/photo_5807890013466247386_y.jpg?raw=true" alt="Portfolio Logo" width="500"/>
 </p>
 
 Welcome to my Flutter portfolio, a showcase of my skills and projects. This portfolio is built using Flutter and GetX for state management.
