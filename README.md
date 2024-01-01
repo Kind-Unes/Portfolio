@@ -45,12 +45,12 @@ The skills section outlines my technical skills and areas of expertise. This pro
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/Kind-Unes/Portfolio/blob/master/Screenshots/photo_5807890013466247395_y%20(1).jpg?raw=true" alt="Screenshot 1" width=""/>
-  <img src="https://github.com/Kind-Unes/Portfolio/blob/master/Screenshots/photo_5807890013466247401_y%20(1).jpg?raw=true" alt="Screenshot 2" width=""/>
-  <img src="https://github.com/Kind-Unes/Portfolio/blob/master/Screenshots/photo_5807890013466247402_y.jpg?raw=true" alt="Screenshot 2" width=""/>
-  <img src="https://github.com/Kind-Unes/Portfolio/blob/master/Screenshots/photo_5807890013466247403_y.jpg?raw=true" alt="Screenshot 2" width=""/>
-  <!-- Add more screenshots as needed -->
+  <img src="https://github.com/Kind-Unes/Portfolio/blob/master/Screenshots/photo_5807890013466247395_y%20(1).jpg?raw=true" alt="Screenshot 1" width="500" style="margin-right: 10px"/>
+  <img src="https://github.com/Kind-Unes/Portfolio/blob/master/Screenshots/photo_5807890013466247401_y%20(1).jpg?raw=true" alt="Screenshot 2" width="500" style="margin-right: 10px"/>
+  <img src="https://github.com/Kind-Unes/Portfolio/blob/master/Screenshots/photo_5807890013466247402_y.jpg?raw=true" alt="Screenshot 3" width="500" style="margin-right: 10px"/>
+  <img src="https://github.com/Kind-Unes/Portfolio/blob/master/Screenshots/photo_5807890013466247403_y.jpg?raw=true" alt="Screenshot 4" width="500"/>
 </p>
+
 
 ## Contributing
 
